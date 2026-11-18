@@ -1,0 +1,22 @@
+
+:root {
+  --primary: #218c58;
+  --primary-dark: #176b42;
+  --primary-light: #e8f5ed;
+
+  --secondary: #f0a83b;
+  --background: #f7faf7;
+  --surface: #ffffff;
+
+  --text: #24352b;
+  --text-light: #718078;
+  --border: #e1e9e3;
+
+  --success: #218c58;
+  --danger: #d64545;
+
+  --shadow: 0 5px 20px rgba(30, 70, 45, 0.08);
+  --radius: 14px;
+
+  --font-family: Arial, Helvetica, sans-serif;
+}

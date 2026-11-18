@@ -1,0 +1,30 @@
+﻿# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# React
+node_modules/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# AI Dataset
+recenovabackend/backend/dataset/
+recenovabackend/backend/images/
+
